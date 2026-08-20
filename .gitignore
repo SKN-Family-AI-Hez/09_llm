@@ -8,7 +8,3 @@ catboost_info/
 
 cifar*
 cifar*.*
-/02_cnn/data/checkpoints/resnet18-f37072fd.pth
-/02_cnn/data/train_32x32.mat
-/02_cnn/data/test_32x32.mat
-/02_cnn/models/resnet18_svhn_st0ate_dict.joblib
